@@ -1,0 +1,20 @@
+/* Colors */
+
+/*
+60% of #677F98 - Primary
+30% of #676798 - Secondary
+10% of #679898 - Accent
+*/
+
+:root {
+
+/* var(--primaryColor) !important; */
+--primaryColor: #677F98;
+
+/* var(--secondaryColor) !important; */
+--secondaryColor: #676798;
+
+/* var(--accentColor) !important; */
+--accentColor: #679898;
+
+}
