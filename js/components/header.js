@@ -19,8 +19,8 @@ class Header extends HTMLElement {
           console.log('Document content:', data);
           // Further processing of the document content
         
-          var globalData = data;
-          this.innerHTML = globalData;
+          //var globalData = data;
+          this.innerHTML = data;
         
         })
         .catch(error => {
