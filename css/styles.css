@@ -25,10 +25,8 @@ p {
 }
 
 
-.triangle {
+#custom-clip-path {
     width: 100%;
     height: 280px;
     background-color: var(--secondaryColor) !important;
-    clip-path: polygon(0 0, 100% 0%, 100% 30%, 0 44%);
-    margin-top: -5px;
-  }
+}
