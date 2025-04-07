@@ -53,7 +53,7 @@
 @media screen and (max-width: 786) {
     
     .content-table {
-        display: none;
+        display: none !important;
     }
 
 } 
